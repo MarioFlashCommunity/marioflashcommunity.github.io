@@ -1,6 +1,6 @@
 # Super Mario Flash Downloads
 
-This page is designed to aggregate all downloads relevant to Super Mario Flash speedrunning..
+This page is designed to aggregate all downloads relevant to Super Mario Flash speedrunning.
 
 ## Flash Player Projector
 
