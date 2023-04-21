@@ -1,0 +1,6 @@
+site_name: RileyTech
+site_url: https://rayyaw.github.io
+nav:
+    - Home: index.md
+    - Game Downloads: game_downloads.md
+    - Tutorials: tutorials.md
