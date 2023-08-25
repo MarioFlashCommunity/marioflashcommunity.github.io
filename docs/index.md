@@ -18,5 +18,5 @@ Former moderators for Super Mario Flash are:
 
 - afnannen136 (he/him)
 - ThePianoEnthusiast (he/him)
-- Lucario
+- Luco (he/him)
 
