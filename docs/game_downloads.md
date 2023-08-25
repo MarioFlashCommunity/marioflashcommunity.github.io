@@ -47,4 +47,12 @@ SMF Practice Tool usage guide:
 
 ## Super Mario Flash 2
 
-<a href="/files/smf-hacks/SMF2.swf">Super Mario Flash 2 unmodified</a>. Speedrun legal.
+### Speedrun legal hacks
+
+<a href="/files/smf2-hacks/SMF2.swf">Super Mario Flash 2 unmodified</a>. Speedrun legal.
+
+### TAS and other hacks
+
+**Disclaimer**: All hacks in this section are **not speedrun legal**.
+
+<a href="/files/smf2-hacks/SMF2_Base_Hack.swf">Super Mario Flash 2 base hack</a>. This will be JPEXS readable and writable when decompiled.
