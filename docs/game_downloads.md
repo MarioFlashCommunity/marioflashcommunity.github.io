@@ -4,7 +4,7 @@ This page is designed to aggregate all downloads relevant to Super Mario Flash s
 
 ## Flash Player Projector
 
-Since Flash Player no longer works on browser, you need to [download the projector](https://archive.org/details/flashplayerarchive) in order to play games locally. If you're on Linux, you can download Flash Player through the [Flatpak store](https://flathub.org/apps/details/com.adobe.Flash-Player-Projector) for free.
+Since Flash Player no longer works on browser, you need to [download the projector](https://fpdownload.macromedia.com/pub/flashplayer/updaters/32/flashplayer_32_sa.exe) in order to play games locally. If you're on Linux, you can download Flash Player through the [Flatpak store](https://flathub.org/apps/details/com.adobe.Flash-Player-Projector) for free.
 
 ## Super Mario Flash
 
@@ -24,7 +24,7 @@ Super Mario Flash speedrun hack guide (note that this is outdated and uses an ol
 
 **Disclaimer**: All hacks in this section are **not speedrun legal**.
 
-<a href="/files/smf-hacks/SMF_Base_Hack.swf">Super Mario Flash Base Hack</a>. This will be JPEXS readable and writable when decompiled.
+<a href="/files/smf-hacks/SMF_Base_Hack.swf">Super Mario Flash v2.5 Base Hack</a>. This will be JPEXS readable and writable when decompiled.
 
 ### Legacy Resources
 
