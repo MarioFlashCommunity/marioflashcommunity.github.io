@@ -26,6 +26,12 @@ Super Mario Flash speedrun hack guide (note that this is outdated and uses an ol
 
 <a href="/files/smf-hacks/SMF_Base_Hack.swf">Super Mario Flash v2.5 Base Hack</a>. This will be JPEXS readable and writable when decompiled.
 
+### Mods
+
+**Disclaimer**: All hacks in this section are **not speedrun legal**.
+
+<a href="/files/smf-mods/SMF-No-Speed-Limit.swf">Super Mario Flash - No Speed Limiy</a>.
+
 ### Legacy Resources
 
 <a href="/files/smf-hacks/SMF_v2.5.swf">Super Mario Flash v2.5 unmodified</a>. Speedrun legal.
