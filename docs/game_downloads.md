@@ -32,11 +32,12 @@ Super Mario Flash speedrun hack guide (note that this is outdated and uses an ol
 
 <a href="/files/smf-mods/SMF-No-Speed-Limit.swf">Super Mario Flash - No Speed Limit</a>.
 
-<a href="/files/smf-mods/The-Hard-Level.swf">The Hard Level</a>.
 
 ### Historical Versions
 
 <a href="/files/smf-historical/super-christophe-bros.swf">Super Christophe Bros</a>.
+
+<a href="/files/smf-historical/The-Hard-Level.swf">The Hard Level</a>.
 
 ### Legacy Resources
 
