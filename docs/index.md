@@ -11,9 +11,12 @@ This website is designed to aggregate all Super Mario Flash resources in one pla
 The current moderators for Super Mario Flash are:
 
 - [RileyTech](https://rayyaw.github.io) (they/them)
-- Vexxter (he/him)
 - upelly (he/him) - Super Mario Flash 1 only
+- Vexxter (he/him) - Super Mario Flash 2 only
 - silly worm (he/him) - Super Mario Flash 2 only
+
+We also have the following verifiers:
+- IcelandBall (he/him)
 
 Former moderators for Super Mario Flash are:
 
