@@ -16,6 +16,7 @@ The current moderators for Super Mario Flash are:
 - silly worm (he/him) - Super Mario Flash 2 only
 
 We also have the following verifiers:
+
 - IcelandBall (he/him)
 
 Former moderators for Super Mario Flash are:
