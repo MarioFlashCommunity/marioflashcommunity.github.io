@@ -4,3 +4,6 @@ nav:
     - Home: index.md
     - Game Downloads: game_downloads.md
     - Tutorials: tutorials.md
+
+extra_css:
+  - stylesheets/extra.css
