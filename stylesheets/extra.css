@@ -1,0 +1,34 @@
+a.mkdocs-custom-btn,
+a.mkdocs-custom-btn:link,
+a.mkdocs-custom-btn:visited {
+    all: unset !important;
+
+    display: inline-flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+
+    box-sizing: border-box !important;
+    padding: 10px 22px !important;
+
+    background-color: #2fa4e7 !important;
+    color: #ffffff !important;
+
+    border-radius: 4px !important;
+    border: 1px solid #2fa4e7 !important;
+
+    font-weight: 600 !important;
+
+    text-decoration: none !important;
+    cursor: pointer !important;
+}
+
+a.mkdocs-custom-btn:hover {
+    background-color: #303f9f !important;
+    border-color: #303f9f !important;
+    color: #ffffff !important;
+}
+
+.button-container {
+    text-align: center;
+    margin: 1.5em 0;
+}
